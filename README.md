@@ -44,7 +44,7 @@ binary](https://www.packer.io/downloads.html) for your operating system or
 [compile Packer
 yourself](https://github.com/hashicorp/packer/blob/master/.github/CONTRIBUTING.md#setting-up-go-to-work-on-packer).
 
-After Packer is installed, create your first template, which tells Packer
+After Packer is aaainstalled, create your first template, which tells Packer
 what platforms to build images for and how you want to build them. In our
 case, we'll create a simple AMI that has Redis pre-installed. Save this
 file as `quick-start.json`. Export your AWS credentials as the
